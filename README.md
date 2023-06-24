@@ -1,6 +1,3 @@
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=mhdeeb)
-
 <h1 align="center">Hi, I'm Mohamed El-Deeb</h1>
 <h3 align="center">A C/C++ Enjoyer</h3>
 
