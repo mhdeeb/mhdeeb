@@ -14,7 +14,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/xmat2000" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="xmat2000" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/mohamed-hussien-093235194" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohamed-hussien-093235194" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/mohamed-el-deeb-093235194" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohamed-hussien-093235194" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/mohamed-eldeeb-201900052" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="mohamed-eldeeb-201900052" height="30" width="40" /></a>
 <a href="https://fb.com/mohamedhussein6a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mohamedhussein6a" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/mohamed eldeeb 201-900-052" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="mohamed eldeeb 201-900-052" height="30" width="40" /></a>
